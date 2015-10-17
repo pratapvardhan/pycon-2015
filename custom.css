@@ -1,0 +1,17 @@
+.rendered_html th {
+  font-weight: bold;
+  background-color: #F1D000;
+}
+
+.rendered_html td, .rendered_html th {
+  padding: 1px !important;
+  font-size: 60%;
+}
+
+.reveal section img {
+  margin: 0px 0px;
+}
+
+div.output_stderr {
+  display: none;
+}
